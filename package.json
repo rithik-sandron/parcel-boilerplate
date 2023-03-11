@@ -1,11 +1,11 @@
 {
-  "name": "tinge",
+  "name": "parcel-boilerplate",
   "source": "index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build"
   },
   "devDependencies": {
-    "parcel": "^2.8.3"
+    "parcel": "latest"
   }
 }
